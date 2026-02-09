@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "841660832938",
+    "project_id": "iselino-375bf",
+    "storage_bucket": "iselino-375bf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841660832938:android:53486085f1a734bb1844d3",
+        "android_client_info": {
+          "package_name": "com.iselino.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvYbjNeC6NthxhoKgeiywvCeIyX7nbZUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
